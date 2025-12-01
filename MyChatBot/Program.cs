@@ -38,9 +38,6 @@ namespace MyChatBot
                 AddAssistantMessage(assistantReply);
             }
         }
-
-        // ---------------- Helper Methods ----------------
-
         private static void InitializeSystemPrompt()
         {
             ChatHistory.Add(new Dictionary<string, string>
@@ -118,7 +115,6 @@ namespace MyChatBot
                 }
                 catch
                 {
-                    // Ignore malformed chunks
                 }
             }
 
