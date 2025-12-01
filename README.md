@@ -1,4 +1,4 @@
-# Challenge 31 - Build Your Own LLM Powered AI Chatbot
+# Challenge - Build Your Own LLM Powered AI Chatbot
 
 This is the challenge from the Coding Challenges by John Crickett https://codingchallenges.fyi/challenges/challenge-llm.chatbot/
 
